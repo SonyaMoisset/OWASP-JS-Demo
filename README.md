@@ -1,1 +1,1 @@
-# OWASP JS Demo
+# OWASP JS Demo - Whitesource
