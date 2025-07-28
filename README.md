@@ -1,4 +1,4 @@
-# OWASP JS Demo - Whitesource
+# OWASP JS Demo - GitGuardian
 
 
 
